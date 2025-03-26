@@ -1,7 +1,7 @@
 # 💫 About Me:
 "In My Book, Experience Outranks Everything." Captain Rex, The Clone Wars 
 
-Website : https://brezel141.github.io/my_website/
+Website : https://brezel141.github.io/Personal-Portfolio-Website/
 
 
 # 💻 Tech Stack:
